@@ -1,0 +1,7 @@
+site_name: Trading Automation Notes
+docs_dir: rtd
+nav:
+  - Home: index.md
+  - Discord signals to MT5: tp.md
+  - Zerodha Kite bot planning: ad.md
+  - Saudi trading software planning: ak.md
